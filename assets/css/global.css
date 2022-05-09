@@ -1,0 +1,17 @@
+body,
+label,
+a,
+button,
+textarea,
+span,
+input {
+	font-family: 'vazir' !important;
+}
+
+.v-btn {
+	letter-spacing: normal !important;
+}
+
+.v-toolbar__title {
+	font-family: 'vazir' !important;
+}
